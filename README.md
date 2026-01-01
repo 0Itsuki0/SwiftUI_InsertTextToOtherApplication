@@ -5,7 +5,7 @@ A demo of inserting text to active (focused) applications using two different ap
 - With Application Services's Accessibility API. Specially AXUIElementSetAttributeValue + kAXSelectedTextAttribute
 - Simulating the paste (⌘+V) command . (Copying is just adding to the NSPasteboard. Nothing special!)
 
-For more details, please refer to my blog: [Swift/MacOS: Insert Text to (Other) Active Applications Two Ways]()
+For more details, please refer to my blog: [Swift/MacOS: Insert Text to (Other) Active Applications Two Ways](https://medium.com/@itsuki.enjoy/swift-macos-insert-text-to-other-active-applications-two-ways-9e2d712ae293)
 
 Will work for 
 - MacOS native apps such as notes, pages,
